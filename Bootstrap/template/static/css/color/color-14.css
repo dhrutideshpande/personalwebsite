@@ -1,0 +1,70 @@
+a {
+  color: #FF9800;
+  text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #FF9800;
+  text-decoration: none;
+}
+
+.list-style-theme li:before,
+.color-theme {
+  color: #FF9800; 
+}
+
+
+.progress-levels .progress-box .bar .bar-fill,
+.progress-levels .progress-box .bar .bar-fill:after,
+.header-style-02 .navbar .top-menu .nav-link:hover:after,
+.header-style-02 .navbar .top-menu .nav-link.active:after,
+.list-style-2 li:before,
+.list-style-3 li:before,
+.accordion-04 .mrig-heading,
+.accordion-05 .mrig-heading,
+.accordion-06 .mrig-heading,
+.accordion-07 .mrig-heading,
+.theme-bg,
+.m-btn-icon,
+.m-btn,
+.badge-primary, 
+.nav-pills .nav-link.active, 
+.nav-pills .show > .nav-link, 
+.bg-primary,
+.btn-primary,
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover,
+.pagination li a:focus, 
+.pagination li a:hover, 
+.pagination li span:focus, 
+.pagination li span:hover,
+.page-item.active .page-link,
+.list-style-tag li a {
+  background: #FF9800;
+}
+
+.btn-primary,
+.m-btn,
+.list-style-4.list-style-color li {
+  border-color: #FF9800;  
+}
+
+.border-theme { border-color: #FF9800; }
+.border-theme-b { border-bottom-color: #FF9800; }
+.border-theme-t { border-top-color: #FF9800; }
+.border-theme-l { border-left-color: #FF9800; }
+.border-theme-r { border-right-color: #FF9800; }
+
+
+.theme-g-bg{
+  background: #FF9800;
+  background: -moz-linear-gradient(left, #FF9800 0%, #000 100%);
+  background: -webkit-linear-gradient(left, #FF9800 0%,#000 100%);
+  background: linear-gradient(to right, #FF9800 0%,#000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF9800', endColorstr='#000',GradientType=1 );
+}

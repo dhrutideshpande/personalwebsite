@@ -1,1 +1,0 @@
-<?php header( 'Location: /Bootstrap/template/landing.html' ) ;  ?>

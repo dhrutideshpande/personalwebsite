@@ -1,1 +1,1 @@
-<?php include("/Bootstrap/template/landing.html"); ?>
+<?php header( 'Location: /Bootstrap/template/landing.html' ) ;  ?>

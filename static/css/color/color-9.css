@@ -1,0 +1,70 @@
+a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.list-style-theme li:before,
+.color-theme {
+  color: #4CAF50; 
+}
+
+
+.progress-levels .progress-box .bar .bar-fill,
+.progress-levels .progress-box .bar .bar-fill:after,
+.header-style-02 .navbar .top-menu .nav-link:hover:after,
+.header-style-02 .navbar .top-menu .nav-link.active:after,
+.list-style-2 li:before,
+.list-style-3 li:before,
+.accordion-04 .mrig-heading,
+.accordion-05 .mrig-heading,
+.accordion-06 .mrig-heading,
+.accordion-07 .mrig-heading,
+.theme-bg,
+.m-btn-icon,
+.m-btn,
+.badge-primary, 
+.nav-pills .nav-link.active, 
+.nav-pills .show > .nav-link, 
+.bg-primary,
+.btn-primary,
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover,
+.pagination li a:focus, 
+.pagination li a:hover, 
+.pagination li span:focus, 
+.pagination li span:hover,
+.page-item.active .page-link,
+.list-style-tag li a {
+  background: #4CAF50;
+}
+
+.btn-primary,
+.m-btn,
+.list-style-4.list-style-color li {
+  border-color: #4CAF50;  
+}
+
+.border-theme { border-color: #4CAF50; }
+.border-theme-b { border-bottom-color: #4CAF50; }
+.border-theme-t { border-top-color: #4CAF50; }
+.border-theme-l { border-left-color: #4CAF50; }
+.border-theme-r { border-right-color: #4CAF50; }
+
+
+.theme-g-bg{
+  background: #4CAF50;
+  background: -moz-linear-gradient(left, #4CAF50 0%, #000 100%);
+  background: -webkit-linear-gradient(left, #4CAF50 0%,#000 100%);
+  background: linear-gradient(to right, #4CAF50 0%,#000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4CAF50', endColorstr='#000',GradientType=1 );
+}
